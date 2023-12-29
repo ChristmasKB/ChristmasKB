@@ -1,4 +1,4 @@
-### Olá, me chamo Kevin ! 👋
+### Olá, me chamo Kevin! 👋
 
 
 Tenho 15 anos e atualmente estou estudando tecnologias e habilidades voltadas para o backend, com o objetivo de aprimorar meu conhecimento e contribuir para o desenvolvimento de sistemas.
